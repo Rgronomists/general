@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"rgronomists_logo","author":"","fileName":"rgronomists_logo.pdf","bounds":[[1466,412]],"bookmarks":[],"thumbnailType":"jpg","pageType":"svg","pageLabels":[]};
